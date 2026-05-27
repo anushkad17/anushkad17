@@ -6,6 +6,12 @@
 
 <br/>
 
+<a href="https://anushhka.dev" target="_blank">
+  <img src="https://img.shields.io/badge/🌐_Portfolio-anushhka.dev-A970FF?style=for-the-badge"/>
+</a>
+
+<br/><br/>
+
 <img src="https://user-images.githubusercontent.com/74038190/212284126-5f4e0c5f-9f5d-4a6d-9f89-8c7b5f93f04b.gif" width="700"/>
 
 </div>
@@ -17,14 +23,23 @@
 ```yaml
 name: Anushka Dhawas
 role: Java Full Stack Developer
-education: B.Tech Electrical and Computer Engineering @ ABES Engineering College
-focus: Scalable Backend Systems & Cloud Architecture
+portfolio: https://anushhka.dev
+
+education:
+  B.Tech Electrical and Computer Engineering
+  ABES Engineering College
+
+focus:
+  - Scalable Backend Systems
+  - Cloud Architecture
+  - Distributed Systems
+  - High Performance APIs
 
 currently_learning:
-  - Distributed Systems
   - Kafka
-  - AWS
   - System Design
+  - AWS
+  - Microservices at Scale
 
 fun_fact: "I love building systems that stay reliable under scale ⚡"
 ```
@@ -42,11 +57,15 @@ fun_fact: "I love building systems that stay reliable under scale ⚡"
 <div align="center">
 
 <a href="https://www.linkedin.com/in/anushka-dhawas-b9300a266/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-7B61FF?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LinkedIn-A970FF?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="https://github.com/anushkad17" target="_blank">
   <img src="https://img.shields.io/badge/GitHub-121212?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://anushhka.dev" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
 </div>
@@ -78,6 +97,21 @@ fun_fact: "I love building systems that stay reliable under scale ⚡"
 ### 🛢 Databases & Tools
 
 <img src="https://skillicons.dev/icons?i=mysql,postgres,redis,mongodb,postman" />
+
+</div>
+
+---
+
+# 🏗 Featured Projects
+
+<div align="center">
+
+| 🚀 Project | ⚡ Description |
+|---|---|
+| UPI Offline Mesh | Distributed offline-first payment simulation |
+| CutLink | Scalable URL shortener with analytics |
+| Fitness Architecture System | Microservice-based fitness platform |
+| Portfolio Website | Cinematic futuristic developer portfolio |
 
 </div>
 
@@ -144,6 +178,16 @@ fun_fact: "I love building systems that stay reliable under scale ⚡"
 
 ---
 
+# 👀 Portfolio
+
+<div align="center">
+
+# 🌐 https://anushhka.dev
+
+</div>
+
+---
+
 # 👀 Profile Views
 
 <div align="center">
@@ -158,6 +202,6 @@ fun_fact: "I love building systems that stay reliable under scale ⚡"
 
 ### ✨ Thanks for visiting my profile ✨
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=7B61FF&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=A970FF&height=120&section=footer"/>
 
 </div>
