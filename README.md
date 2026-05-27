@@ -15,7 +15,7 @@
 ```yaml
 name: Anushka Dhawas
 role: Java Full Stack Developer
-education: B.Tech ECE @ ABES Engineering College
+education: B.Tech Electrical and Computer Engineering @ ABES Engineering College
 focus: Scalable Backend Systems & Cloud Architecture
 currently_learning:
   - Distributed Systems
