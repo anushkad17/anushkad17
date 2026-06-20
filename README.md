@@ -6,7 +6,7 @@
 
 <br/>
 
-![B.Tech ECE](https://img.shields.io/badge/B.Tech-Electrical_%26_Computer_Engineering-7C3AED?style=for-the-badge&logo=graduation-cap&logoColor=white)
+![B.Tech ELCE](https://img.shields.io/badge/B.Tech-Electrical_%26_Computer_Engineering-7C3AED?style=for-the-badge&logo=graduation-cap&logoColor=white)
 ![ABES Engineering](https://img.shields.io/badge/ABES_Engineering_College-2022--2026-4F46E5?style=for-the-badge&logo=university&logoColor=white)
 ![India](https://img.shields.io/badge/📍_Noida%2C_India-1E1B4B?style=for-the-badge)
 
