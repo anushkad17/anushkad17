@@ -33,7 +33,7 @@
 name       : Anushka Dhawas
 role       : Java Full Stack Engineer
 location   : Noida, India
-education  : B.Tech ECE — ABES Engineering College (2022–2026)
+education  : B.Tech ELCE — ABES Engineering College (2022–2026)
 experience : Zoho Corporation — SDE Intern (Jun–Aug 2025)
 ```
 
