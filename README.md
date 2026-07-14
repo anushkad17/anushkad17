@@ -208,7 +208,7 @@ Worked on production Spring Boot microservices within Zoho's engineering environ
 | 🏆 Recognition | Details |
 |----------------|---------|
 | **2nd Place — HackHaven Hackathon** | Built and shipped a working product under time constraints |
-| **Event Head — Theatre Club** | Led end-to-end planning and execution of college-wide cultural events |
+
 
 </div>
 
