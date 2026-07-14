@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=200&section=header&text=Anushka%20Dhawas&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Software%20Development%20Engineer&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=200&section=header&text=Anushka%20Dhawas&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Java%20Backend%20Developer&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&multiline=false&width=680&lines=Java+Full+Stack+Engineer+%7C+Cloud-Native+Architect;Spring+Boot+%7C+Microservices+%7C+Distributed+Systems;Building+Scalable+Backend+Infrastructure;Open+to+SDE+%7C+Apprentice+%7C+Graduate+Roles)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&multiline=false&width=680&lines=Java+Backend+Developer+%7C+Spring+Boot+Engineer;Distributed+Systems+%7C+Fintech+Infrastructure;Kafka+%7C+Redis+%7C+PostgreSQL+%7C+Docker;Open+to+Fresher+SDE+%7C+Backend+Roles)](https://git.io/typing-svg)
 
 <br/>
 
-![B.Tech ELCE](https://img.shields.io/badge/B.Tech-Electrical_%26_Computer_Engineering-7C3AED?style=for-the-badge&logo=graduation-cap&logoColor=white)
+![B.Tech ECE](https://img.shields.io/badge/B.Tech-Electrical_%26_Computer_Engineering-7C3AED?style=for-the-badge&logo=graduation-cap&logoColor=white)
 ![ABES Engineering](https://img.shields.io/badge/ABES_Engineering_College-2022--2026-4F46E5?style=for-the-badge&logo=university&logoColor=white)
 ![India](https://img.shields.io/badge/📍_Noida%2C_India-1E1B4B?style=for-the-badge)
 
@@ -21,7 +21,6 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=anushkad17&style=for-the-badge&color=7C3AED&label=PROFILE+VIEWS)
 ![Followers](https://img.shields.io/github/followers/anushkad17?style=for-the-badge&color=4F46E5&label=FOLLOWERS&logo=github&logoColor=white)
-![Stars](https://img.shields.io/github/stars/anushkad17?style=for-the-badge&color=6D28D9&label=TOTAL+STARS&logo=github&logoColor=white)
 
 </div>
 
@@ -31,23 +30,20 @@
 
 ```yaml
 name       : Anushka Dhawas
-role       : Java Full Stack Engineer
+role       : Java Backend Developer
 location   : Noida, India
-education  : B.Tech ELCE — ABES Engineering College (2022–2026)
-experience : Zoho Corporation — SDE Intern (Jun–Aug 2025)
+education  : B.Tech ECE — ABES Engineering College (2022–2026)
+internship : Zoho Corporation — Java Backend Intern
 ```
 
-I am a backend-focused software engineer with production experience building **cloud-native microservices**, **distributed systems**, and **event-driven architectures** using Java 17, Spring Boot, and Docker. During my internship at **Zoho Corporation**, I engineered REST API pipelines serving real-world traffic across 3 microservices, cut release cycles by 20% through CI/CD automation, and architected OAuth2/JWT security frameworks at scale.
+I'm a backend-focused developer building **distributed systems**, **microservices**, and **event-driven architectures** with Java and Spring Boot. My internship at **Zoho Corporation** gave me hands-on exposure to production-grade Spring Boot microservices, OAuth2/JWT security, and CI/CD pipelines.
 
-I approach engineering problems with a **systems-thinking mindset** — designing for fault tolerance, observability, and scalability from the start. My project work spans distributed payment infrastructure (UPI Mesh Network), AI-integrated backend platforms, and production-grade URL management systems.
-
-I am deeply interested in the intersection of **backend infrastructure**, **cloud architecture**, and **ML-integrated systems** — building pipelines that are not just functional but measurable and resilient.
+My flagship project — **UPI Mesh Network** — is an offline-first distributed payment platform that routes encrypted payments peer-to-peer through nearby devices using a gossip protocol, with Redis idempotency guaranteeing exactly-once settlement.
 
 **Open To:**
-- Apprentice / Junior SDE roles at product-led companies
-- Cloud-native backend engineering positions
-- Full stack development roles with Java or Node.js
-- Research-adjacent engineering internships in AI/ML infrastructure
+- Fresher / Junior SDE roles at product-led companies
+- Java backend and full-stack engineering positions
+- Fintech startups and cloud-native backend teams
 
 ---
 
@@ -60,51 +56,28 @@ I am deeply interested in the intersection of **backend infrastructure**, **clou
 [![Java](https://skillicons.dev/icons?i=java)](https://java.com)
 [![Python](https://skillicons.dev/icons?i=python)](https://python.org)
 [![JavaScript](https://skillicons.dev/icons?i=js)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![SQL](https://skillicons.dev/icons?i=mysql)](https://mysql.com)
 [![HTML](https://skillicons.dev/icons?i=html)](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [![CSS](https://skillicons.dev/icons?i=css)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 
 **Frontend**
 
 [![React](https://skillicons.dev/icons?i=react)](https://reactjs.org)
-[![Tailwind](https://skillicons.dev/icons?i=tailwind)](https://tailwindcss.com)
 
 **Backend & Databases**
 
 [![Spring](https://skillicons.dev/icons?i=spring)](https://spring.io)
 [![Docker](https://skillicons.dev/icons?i=docker)](https://docker.com)
-[![Kubernetes](https://skillicons.dev/icons?i=kubernetes)](https://kubernetes.io)
 [![PostgreSQL](https://skillicons.dev/icons?i=postgres)](https://postgresql.org)
 [![MySQL](https://skillicons.dev/icons?i=mysql)](https://mysql.com)
-[![MongoDB](https://skillicons.dev/icons?i=mongodb)](https://mongodb.com)
 [![Redis](https://skillicons.dev/icons?i=redis)](https://redis.io)
 [![Kafka](https://skillicons.dev/icons?i=kafka)](https://kafka.apache.org)
 
-**Cloud, DevOps & Tooling**
+**Cloud & Tooling**
 
 [![AWS](https://skillicons.dev/icons?i=aws)](https://aws.amazon.com)
-[![GitHub Actions](https://skillicons.dev/icons?i=githubactions)](https://github.com/features/actions)
-[![Jenkins](https://skillicons.dev/icons?i=jenkins)](https://jenkins.io)
-[![Linux](https://skillicons.dev/icons?i=linux)](https://linux.org)
 [![Git](https://skillicons.dev/icons?i=git)](https://git-scm.com)
+[![Linux](https://skillicons.dev/icons?i=linux)](https://linux.org)
 [![Maven](https://skillicons.dev/icons?i=maven)](https://maven.apache.org)
-
-</div>
-
----
-
-## 〈 AI / ML Expertise 〉
-
-<div align="center">
-
-| Domain | Proficiency | Details |
-|--------|-------------|---------|
-| ML Model Integration | ◆◆◆◇◇ Intermediate | REST endpoint design for AI-driven recommendation pipelines |
-| Event-Driven Data Pipelines | ◆◆◆◆◇ Advanced | Kafka-based stream processing for real-time data workflows |
-| Distributed Data Processing | ◆◆◆◆◇ Advanced | Redis atomic ops, PostgreSQL optimistic locking at scale |
-| Backend for AI Platforms | ◆◆◆◇◇ Intermediate | Microservices architecture supporting ML model serving |
-| Automation & Scripting | ◆◆◆◇◇ Intermediate | Python automation scripts for deployment and data workflows |
-| Cloud-Native Architecture | ◆◆◆◆◇ Advanced | Docker, Kubernetes, AWS for scalable ML-ready infrastructure |
 
 </div>
 
@@ -113,72 +86,87 @@ I am deeply interested in the intersection of **backend infrastructure**, **clou
 ## 〈 Featured Projects 〉
 
 <details>
-<summary><b>⬡ &nbsp;UPI Mesh Network &nbsp;—&nbsp; Distributed Payment Infrastructure</b></summary>
+<summary><b>⬡ &nbsp;UPI Mesh Network &nbsp;—&nbsp; Offline-First Distributed Payment Platform</b></summary>
 
 <br/>
 
-A production-grade distributed payment system routing encrypted peer-to-peer transactions over Bluetooth mesh networking. Engineered for 100% idempotent settlement with fault-tolerant async pipelines, atomic Redis operations, and PostgreSQL optimistic locking. Scales across unreliable network conditions with zero duplicate-payment leakage.
+An offline-first distributed payment platform that routes encrypted payment packets peer-to-peer through nearby devices using a **gossip protocol** — no internet required on the sender's side. A bridge node with connectivity relays the packet to the cloud backend, which validates and settles atomically.
 
 <br/>
 
 | Attribute | Detail |
 |-----------|--------|
-| **Stack** | Spring Boot · Java 17 · Apache Kafka · Redis · PostgreSQL · Docker · Twilio |
-| **Scale** | Handles concurrent P2P transactions with idempotent settlement guarantees |
-| **Performance** | Transaction notification failures reduced to under 0.1% |
-| **Security** | End-to-end transaction encryption with atomic operation guarantees |
-| **Impact** | Fault-tolerant distributed workflows eliminating duplicate-payment leakage |
-| **Repository** | [![GitHub](https://img.shields.io/badge/View_Repo-7C3AED?style=flat-square&logo=github&logoColor=white)](https://github.com/anushkad17) |
+| **Stack** | Java · Spring Boot · Apache Kafka · Redis · PostgreSQL · Docker |
+| **Security** | RSA-OAEP + AES-256-GCM end-to-end encryption on every MeshPacket |
+| **Idempotency** | Redis SETNX guarantees exactly-once transaction settlement |
+| **Notifications** | Kafka `payment.settled` → JavaMailSender async email to both parties |
+| **Settlement** | Spring `@Transactional` atomic PostgreSQL write |
+| **Dev** | Full Docker Compose local setup |
+| **Repository** | [![GitHub](https://img.shields.io/badge/View_Repo-7C3AED?style=flat-square&logo=github&logoColor=white)](https://github.com/anushkad17/upi-offline-mesh) |
 
-**Architecture highlights:** Kafka-based event-processing pipelines handle asynchronous transaction flows with automated SMS and email alerts via Twilio. Redis atomic operations and PostgreSQL optimistic locking ensure consistency under concurrent load. The system applies distributed data structures and OOP principles to prevent duplicate-payment scenarios across Byzantine network conditions.
+**Architecture flow:** Sender creates an encrypted MeshPacket → gossip propagation via stranger devices (TTL decrements each hop) → bridge node POSTs via HTTPS → 4-gate backend validation (SHA-256 hash → Redis SETNX → RSA+AES decrypt → 24hr freshness check) → PostgreSQL settlement → Kafka event → email notifications to both parties.
 
 <br/>
 
 </details>
 
 <details>
-<summary><b>⬡ &nbsp;AI Fitness Platform &nbsp;—&nbsp; ML-Integrated Microservices Backend</b></summary>
+<summary><b>⬡ &nbsp;AI Fitness Platform &nbsp;—&nbsp; Event-Driven Microservices Backend</b></summary>
 
 <br/>
 
-An event-driven fitness platform backend built on independently deployable microservices with ML model integration endpoints for AI-driven fitness recommendations. Implements enterprise-grade identity and authorization using Keycloak RBAC and OAuth2/JWT across all service-to-service communication layers.
+An event-driven fitness platform backend built on independently deployable Spring Boot microservices. Implements enterprise-grade identity and authorization using Keycloak RBAC and OAuth2/JWT across all service-to-service communication.
 
 <br/>
 
 | Attribute | Detail |
 |-----------|--------|
-| **Stack** | Spring Boot · Java 17 · RabbitMQ · Keycloak · React.js · Docker |
-| **Scale** | Independently deployable services with horizontal scaling support |
-| **Performance** | Event-driven architecture decoupling services for async throughput |
-| **Security** | OAuth2/JWT + Keycloak RBAC for service-to-service authorization |
-| **Impact** | ML model integration endpoints enabling AI-powered recommendation engine |
+| **Stack** | Spring Boot · Java · RabbitMQ · Keycloak · React.js · Docker |
+| **Auth** | OAuth2/JWT + Keycloak RBAC for service-to-service authorization |
+| **Messaging** | RabbitMQ decoupling services for async event-driven workflows |
+| **Frontend** | React.js consuming backend REST APIs |
 | **Repository** | [![GitHub](https://img.shields.io/badge/View_Repo-7C3AED?style=flat-square&logo=github&logoColor=white)](https://github.com/anushkad17) |
-
-**Architecture highlights:** RabbitMQ message broker decouples services and enables scalable event-driven workflows. Keycloak handles identity federation and RBAC authorization, applying networking fundamentals (HTTP/HTTPS, REST) for secure inter-service data pipelines. ML model endpoints are exposed as REST APIs consumed by the React.js frontend.
 
 <br/>
 
 </details>
 
 <details>
-<summary><b>⬡ &nbsp;CutLink &nbsp;—&nbsp; High-Throughput URL Management System</b></summary>
+<summary><b>⬡ &nbsp;CutLink &nbsp;—&nbsp; URL Shortener with Analytics</b></summary>
 
 <br/>
 
-A scalable URL shortening and analytics platform engineered for high request throughput with 99% uptime SLA. Features automated deployment pipelines, analytics dashboards, and optimised database infrastructure processing over 1,000 daily requests with sub-millisecond query performance.
+A full-stack URL shortening platform with custom alias support, click analytics, and JWT-based authentication. Deployed on Netlify (frontend) and Render (backend) with Docker containerization for local development.
 
 <br/>
 
 | Attribute | Detail |
 |-----------|--------|
-| **Stack** | Spring Boot · Java 17 · MySQL · React.js · Docker |
-| **Scale** | 1,000+ daily requests at 99% uptime |
-| **Performance** | SQL query tuning and efficient database design for sub-millisecond response |
-| **Security** | Secure short URL generation with collision-resistant hashing |
-| **Impact** | Automated deployment pipelines reducing release overhead significantly |
+| **Stack** | Spring Boot · Java · MySQL · React.js · Docker |
+| **Auth** | JWT-based authentication |
+| **Deployment** | Netlify (frontend) · Render (backend) |
+| **Live Demo** | [![Live](https://img.shields.io/badge/Live_Demo-cutlinkurl.netlify.app-10B981?style=flat-square)](https://cutlinkurl.netlify.app) |
 | **Repository** | [![GitHub](https://img.shields.io/badge/View_Repo-7C3AED?style=flat-square&logo=github&logoColor=white)](https://github.com/anushkad17) |
 
-**Architecture highlights:** Backend infrastructure optimised through SQL query tuning and efficient schema design. Scripting automation in GitHub Actions pipelines reduces manual deployment effort. Analytics dashboards surface engagement metrics with technical documentation enabling smooth cross-functional handoffs.
+<br/>
+
+</details>
+
+<details>
+<summary><b>⬡ &nbsp;Hierarchical Disease Prediction &nbsp;—&nbsp; Explainable AI Research Project</b></summary>
+
+<br/>
+
+A hierarchical disease prediction system using NLP and ML, built as a 3-person team project at ABES Engineering College. Combines sentence embeddings and gradient boosting with explainability tooling.
+
+<br/>
+
+| Attribute | Detail |
+|-----------|--------|
+| **Stack** | Python · SBERT · XGBoost · Explainable AI (XAI) |
+| **Approach** | Hierarchical classification using sentence embeddings + gradient boosting |
+| **Explainability** | XAI tooling to surface model reasoning for clinical predictions |
+| **Deliverables** | Institutional report · Project poster · Front matter documentation |
 
 <br/>
 
@@ -190,26 +178,24 @@ A scalable URL shortening and analytics platform engineered for high request thr
 
 <div align="left">
 
-### Software Development Engineer Intern &nbsp;·&nbsp; Zoho Corporation Pvt. Ltd.
-`Jun 2025 – Aug 2025` &nbsp;|&nbsp; Noida, India
+### Java Backend Intern &nbsp;·&nbsp; Zoho Corporation
+Noida, India
 
-Contributed to the design, development, testing, and deployment of cloud-native backend services within Zoho's production engineering environment. Worked across a 3-microservice architecture under senior engineers, owning security, reliability, and CI/CD automation deliverables end-to-end.
+Worked on production Spring Boot microservices within Zoho's engineering environment. Owned security, reliability, and CI/CD automation deliverables across a multi-service Java backend architecture.
 
-- Engineered high-availability REST API pipelines across 3 Spring Boot microservices (Java 17), improving API reliability by **30%** through asynchronous processing and optimised backend architecture
-- Architected OAuth2/JWT authentication and RBAC authorization frameworks using Spring Security, reducing security debugging overhead by **25%** via structured exception handling and scalable security patterns
-- Spearheaded CI/CD deployment automation using Docker, GitHub Actions, and Linux pipelines, reducing release cycles by **20%** while enabling zero-downtime deployments
-- Collaborated with cross-functional engineering and QA teams across Agile/Scrum ceremonies; authored technical documentation and test case reports supporting full SDLC across all services
+- Built and maintained REST API pipelines across Spring Boot microservices
+- Implemented OAuth2/JWT authentication and RBAC authorization using Spring Security
+- Set up CI/CD pipelines using Docker and GitHub Actions for automated deployments
+- Collaborated with cross-functional teams in Agile/Scrum ceremonies and authored technical documentation
 
 <br/>
 
-![Java](https://img.shields.io/badge/Java_17-7C3AED?style=flat-square&logo=java&logoColor=white)
+![Java](https://img.shields.io/badge/Java-7C3AED?style=flat-square&logo=java&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-4F46E5?style=flat-square&logo=springboot&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-6D28D9?style=flat-square&logo=docker&logoColor=white)
 ![OAuth2](https://img.shields.io/badge/OAuth2%2FJWT-7C3AED?style=flat-square&logo=auth0&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-4F46E5?style=flat-square&logo=githubactions&logoColor=white)
-![JUnit](https://img.shields.io/badge/JUnit%2FMockito-6D28D9?style=flat-square&logo=junit5&logoColor=white)
 ![Microservices](https://img.shields.io/badge/Microservices-312E81?style=flat-square&logoColor=white)
-![Agile](https://img.shields.io/badge/Agile%2FScrum-4F46E5?style=flat-square&logoColor=white)
 
 </div>
 
@@ -221,8 +207,8 @@ Contributed to the design, development, testing, and deployment of cloud-native 
 
 | 🏆 Recognition | Details |
 |----------------|---------|
-| **2nd Place — HackHaven Hackathon** | Competitive engineering hackathon; built and shipped a working product under time constraints |
-| **Event Head — Theatre Club** | Led end-to-end planning and execution of college-wide cultural events; managed cross-functional teams |
+| **2nd Place — HackHaven Hackathon** | Built and shipped a working product under time constraints |
+| **Event Head — Theatre Club** | Led end-to-end planning and execution of college-wide cultural events |
 
 </div>
 
@@ -232,28 +218,7 @@ Contributed to the design, development, testing, and deployment of cloud-native 
 
 <div align="center">
 
-**Amazon Web Services**
-
 [![AWS Cloud Practitioner](https://img.shields.io/badge/AWS_Cloud_Practitioner_Essentials-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)](https://aws.amazon.com/certification/)
-
-<br/>
-
-**Spring / Java Ecosystem**
-
-[![Spring Boot](https://img.shields.io/badge/Spring_Boot_Certification-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)](https://spring.io)
-
-</div>
-
----
-
-## 〈 Coding Profiles 〉
-
-<div align="center">
-
-[![LeetCode](https://img.shields.io/badge/LeetCode-anushkad17-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/anushkad17)
-[![GeeksForGeeks](https://img.shields.io/badge/GeeksForGeeks-anushkad17-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/anushkad17)
-[![HackerRank](https://img.shields.io/badge/HackerRank-anushkad17-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black)](https://www.hackerrank.com/anushkad17)
-[![CodeChef](https://img.shields.io/badge/CodeChef-anushkad17-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/anushkad17)
 
 </div>
 
@@ -280,7 +245,7 @@ Contributed to the design, development, testing, and deployment of cloud-native 
 
 <div align="center">
 
-[![Trophies](https://github-profile-trophy.vercel.app/?username=anushkad17&theme=darkhub&column=7&margin-w=8&margin-h=8&no-bg=true&no-frame=false&title_color=A78BFA)](https://github.com/ryo-ma/github-profile-trophy)
+[![Trophies](https://github-profile-trophy.vercel.app/?username=anushkad17&theme=darkhub&column=7&margin-w=8&margin-h=8&no-bg=true&no-frame=false)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
@@ -314,26 +279,21 @@ Contributed to the design, development, testing, and deployment of cloud-native 
 
 ```yaml
 learning:
-  - System Design at scale — distributed consensus, CAP theorem, PACELC
-  - Data Structures & Algorithms — sliding window, dynamic programming, graph traversal
-  - Cloud infrastructure — AWS Solutions Architect concepts, IaC with Terraform
-  - Monitoring & observability — Prometheus, Grafana, CloudWatch
+  - System Design — distributed consensus, CAP theorem, idempotency patterns
+  - DSA — sliding window, dynamic programming, graph traversal
+  - AWS Solutions Architect concepts
+  - Observability with Spring Boot Actuator
 
 building:
-  - Cloud-native microservices with Spring Boot 3 and Java 21 virtual threads
-  - Kafka-based event streaming pipelines with schema registry
-  - ML model integration endpoints for AI-driven backend services
-
-exploring:
-  - SRE principles — system health monitoring, alerting, incident response
-  - Kubernetes advanced patterns — Helm, operators, service mesh
-  - Multi-cloud architecture — Azure and GCP fundamentals
+  - Extending UPI Mesh Network with Kubernetes deployment
+  - Kafka event streaming with schema registry
+  - Spring Boot 3 with Java 21 virtual threads
 
 open_to:
-  - Apprentice SDE roles at product-led engineering companies
-  - Graduate software engineering positions (Java / Full Stack)
-  - Cloud backend internships with real infrastructure ownership
-  - Open source contributions in Java / Spring ecosystem
+  - Fresher SDE roles at product-led companies
+  - Java backend and full-stack positions
+  - Fintech startups and distributed systems teams
+  - Open source in Java / Spring ecosystem
 ```
 
 ---
@@ -353,10 +313,10 @@ open_to:
 
 <div align="center">
 
-*"The best systems are not those that never fail — they are those engineered to recover faster than anyone notices."*
+*"Build systems that fail gracefully — then make sure they rarely have to."*
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=120&section=footer&fontSize=14&fontColor=ffffff&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=120&section=footer&animation=fadeIn" width="100%"/>
 
 </div>
