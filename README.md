@@ -32,7 +32,7 @@
 name       : Anushka Dhawas
 role       : Java Backend Developer
 location   : Noida, India
-education  : B.Tech ECE — ABES Engineering College (2022–2026)
+education  : B.Tech ELCE — ABES Engineering College (2022–2026)
 internship : Zoho Corporation — Java Backend Intern
 ```
 
